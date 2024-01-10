@@ -1,3 +1,3 @@
 FROM python:latest
-COPY p1.py /
+COPY . .
 CMD ["python3","/p1.py"]
