@@ -6,5 +6,6 @@ print("name");
 print("dob");
 print(class1);
 print(l);"""
-
+print("amma");
+print("amma nanna");
 print("Welcome to Python");
